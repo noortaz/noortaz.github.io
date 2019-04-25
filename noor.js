@@ -4,8 +4,10 @@ var app = express();
 app.set('view enjine', 'ejs');
 
 app.get('/', function(req, res) {
-  res.sendFile(__dirname + '/resume.html');
+  res.sendFile(__dirname + '/index.html');
 });
+
+
 /*
 app.get('/contact', function(req, res) {
   res.sendFile(__dirname + '/contact.html');
