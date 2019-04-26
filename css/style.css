@@ -9,3 +9,35 @@ body{
   font: normal 18px Arial, Helvetica, sans-serif;
   line-height: 1.9em;
 }
+
+.container{
+  width: 80%;
+  margin: auto;
+}
+
+.box-1{
+  border: skyblue 3px solid;
+  border-bottom-style: double;
+  border-top-style: double;
+
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.box-2{
+  border: skyblue 3px solid;
+  border-bottom-style: double;
+  border-top-style: double;
+
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.box-3{
+  border: skyblue 3px solid;
+  border-bottom-style: double;
+  border-top-style: double;
+
+  padding: 20px;
+  margin: 20px 0;
+}
