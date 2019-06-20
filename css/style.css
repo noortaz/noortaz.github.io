@@ -1,5 +1,6 @@
 body{
-  background-image: url(http://terrazzco.com/new/wp-content/uploads/2019/01/Terrazzo-Sample-1952.jpg);
+  background-image: url(https://cdn.pixabay.com/photo/2016/06/02/02/38/mesh-1430108_960_720.png);
+  background-size: 100%;
   color:white;
   /*
   font-family: Arial, Helvetica, sans-serif;
@@ -49,4 +50,28 @@ h1{
   border-top: skyblue 3px double;
   padding: 5px;
   margin: 5px 0;
+}
+
+
+button {
+  
+  top: 8px;
+  right: 16px;
+  float: right;
+  background-color: dodgerblue;
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+    margin: auto;
+  
+}
+
+
+.btn-github {
+   
+
 }
